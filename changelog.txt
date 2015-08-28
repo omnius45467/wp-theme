@@ -1,0 +1,73 @@
+*** Changelog ***
+08 February 2015- Version 1.0
+	INITIAL RELEASE
+28 February 2015 - Version 1.1
+	NEW! Revolution Slider
+	NEW! Layer Slider
+	NEW! Added labels for the events status
+	FIXED! Featured image size not set for home style 2
+	FIXED! Issue with file location when child theme is used
+	FIXED! Post thumbnails support bug
+	FIXED! Post title echo bug on homepage
+	FIXED! CSS transitions for header fixed
+	FIXED! Bug with event time showing wrong on list and grid views
+22 March 2015 - Version 1.2
+	NEW! bbpress compatibility
+	NEW! Podcasting for Sermons
+	NEW! Theme customization options at Theme Options
+	NEW! Search and Cart buttons for header
+	NEW! Google fonts options at Theme Options
+	NEW! All sermons of a speaker template added
+	UPDATED! Added a plugin to add in Facebook/Twitter/Gplus tags in Header
+	FIXED! Recent Sermon layout issue when no video is found
+	FIXED! Event counters on homepage not getting correct event start time
+	FIXED! Pagination hidden on Blog Masonry Template
+	FIXED! Sticky Header height Issue
+	FIXED! Bug in single sermons page not displaying tags and content
+	FIXED! Sermons archive page watch now link not taking users to single sermon page
+	FIXED Styling issues for woo commerce new update
+28 April 2015 - Version 1.2.1
+	UPDATED! Theme framework and included plugins for XSS vulnerability prevention
+	FIXED! Homepage header height issue
+	FIXED! Line height menu bug
+	FIXED! Lead content min height bug
+	FIXED! Error on line 487 of init.js
+	FIXED! Long names and positions of staff posts causing overflow issue
+29 April 2015 - Version 1.2.2
+	FIXED! Bug with navigation links not working
+30 May 2015 - Version 1.2.3
+    	FIXED! Upcoming event bar below slider, Contact form error
+    	FIXED! Event schedule to be 24 hours.
+    	NEW! Staff menu order in shortcode.
+    	UPDATED! Increase featured box image size for rectangle view to 600px / 400px 
+    	UPDATED! sermon widget
+    	FIXED! Videos for sermons do not play if featured image is not set
+	UPDATED! Some dynamic data code
+	FIXED! Some styling bugs
+	FIXED! Gallery sliders lightbox cloned slide issue
+	UPDATED! Revolution Slider
+30 June 2015 - Version 1.3
+	prettyPhoto XSS fix
+	NEW! Drag Drop Page Builder
+	UPDATED! Recent sermons widget to show featured image if no video is available
+	FIXED! Share event popover cutting out in boxed mode
+	NEW! Page template for Sermons List/Grid
+	IMPROVED! imic_afterSavePost() Function
+	NEW! RTL Languages Support
+	NEW! Option to choose whether events will appear on site till start time or end time
+	NEW! Option to choose whether to show only event start time or Start/End both time
+	FIXED! Some strings not getting translated
+	NEW! Google directions link in event map poppet
+	NEW! Option to change the content of Contact Event Manager Form footer
+	NEW! Option to add links to Flexslider slider images
+	FIXED! Category archive pages showing first post name instead of category name in header banner
+	FIXED! Recent Sermon widget showing all media icons despite of file availability
+	UPDATED! Featured block homepage section to keep equal height
+	FIXED! Events list month switcher not working on small screens
+	UPDATED! Font Awesome Icons to latest version 4.3
+	UPDATED! Layer Slider Plugin
+10 July 2015 - Version 1.3.1
+	FIXED! Events list sidebar position bug on small screen devices
+	FIXED! Icons invisible in Shortcode Generator
+	ADDED! New icons to Shortcode Generator
+	FIXED! Event ticketing popover position in mobile devices
